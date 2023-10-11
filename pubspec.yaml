@@ -1,0 +1,13 @@
+name: test_case_combinator
+description: >
+  A small library with no dependencies that simplifies writing tests
+  where verifying all possible combinations of the input parameters is required.
+version: 1.0.0
+repository: https://github.com/zysoft/test_case_combinator
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
